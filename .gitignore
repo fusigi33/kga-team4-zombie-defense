@@ -1,0 +1,41 @@
+# 캐시/중간 산출물
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+
+# 에셋 폴더
+Content/Assets/*
+
+# 플레이스 홀더
+!Content/Assets/placeholder.txt
+
+# IDE 파일
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# 백업 파일
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.scc
+
+# Visual Studio
+.vs/
+
+# OS별 불필요 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 산출물
+*.exe
+*.dll
+*.pdb
+*.app
+*.dylib
+*.so
