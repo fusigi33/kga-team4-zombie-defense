@@ -8,7 +8,11 @@ Binaries/
 Content/Assets/*
 
 # 플레이스 홀더
-!Content/Assets/placeholder.txt
+!Content/Assets/.gitkeep
+!Content/Blueprints/Game/.gitkeep
+!Content/Blueprints/Player/.gitkeep
+!Content/Blueprints/UI/.gitkeep
+!Content/Blueprints/Zombies/.gitkeep
 
 # IDE 파일
 *.sln
